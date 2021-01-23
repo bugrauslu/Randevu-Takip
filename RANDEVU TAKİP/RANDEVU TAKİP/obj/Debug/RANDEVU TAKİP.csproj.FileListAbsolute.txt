@@ -1,0 +1,15 @@
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\bin\Debug\RANDEVU TAKİP.exe.config
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\bin\Debug\RANDEVU TAKİP.exe
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\bin\Debug\RANDEVU TAKİP.pdb
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\obj\Debug\RANDEVU TAKİP.csprojAssemblyReference.cache
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\obj\Debug\RANDEVU_TAKİP.Form1.resources
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\obj\Debug\RANDEVU_TAKİP.Properties.Resources.resources
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\obj\Debug\RANDEVU TAKİP.csproj.GenerateResource.cache
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\obj\Debug\RANDEVU TAKİP.csproj.CoreCompileInputs.cache
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\obj\Debug\RANDEVU TAKİP.exe
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\obj\Debug\RANDEVU TAKİP.pdb
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\obj\Debug\RANDEVU_TAKİP.bolumekle.resources
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\obj\Debug\RANDEVU_TAKİP.doktorekle.resources
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\obj\Debug\RANDEVU_TAKİP.giris.resources
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\obj\Debug\RANDEVU_TAKİP.kayıtol.resources
+C:\Users\bugrauslu\source\repos\RANDEVU TAKİP\RANDEVU TAKİP\obj\Debug\RANDEVU_TAKİP.menu.resources
